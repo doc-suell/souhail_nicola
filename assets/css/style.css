@@ -1,4 +1,14 @@
 @font-face {
-  font-family: minecraft;
-  src: url(../fonts/Minecraft.ttf);
+    font-family: minecraft;
+    src: url(../fonts/Minecraft.ttf);
+}
+
+.littleBall {
+    width: 1%;
+    height: auto;
+}
+
+.logo {
+    width: 15%;
+    height: auto;
 }
