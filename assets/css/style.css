@@ -40,6 +40,8 @@ li {
   color: white;
 }
 
+/* FOOTER */
+
 .logo_footer {
   width: 150px;
   height: auto;
@@ -48,6 +50,7 @@ li {
 footer {
   background-color: rgb(32, 32, 32);
   height: auto;
+  width: 100%;
 }
 
 footer div {
@@ -57,3 +60,5 @@ footer div {
   width: 200px;
   padding: 20px 0px;
 }
+
+/* END FOOTER  */
