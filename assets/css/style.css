@@ -1,14 +1,41 @@
 @font-face {
-    font-family: minecraft;
-    src: url(../fonts/Minecraft.ttf);
+  font-family: minecraft;
+  src: url(../fonts/Minecraft.ttf);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  font-family: minecraft;
 }
 
 .littleBall {
-    width: 1%;
-    height: auto;
+  width: 10px;
+  height: auto;
 }
 
 .logo {
-    width: 15%;
-    height: auto;
+  width: 120px;
+  height: auto;
+}
+
+header {
+  background-color: rgb(32, 32, 32);
+  height: auto;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+li {
+  padding: 20px 10px;
+}
+
+.flex a {
+  color: white;
 }
