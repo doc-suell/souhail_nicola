@@ -39,3 +39,21 @@ li {
 .flex a {
   color: white;
 }
+
+.logo_footer {
+  width: 150px;
+  height: auto;
+}
+
+footer {
+  background-color: rgb(32, 32, 32);
+  height: auto;
+}
+
+footer div {
+  color: white;
+  font-size: 10px;
+  text-align: justify;
+  width: 200px;
+  padding: 20px 0px;
+}
